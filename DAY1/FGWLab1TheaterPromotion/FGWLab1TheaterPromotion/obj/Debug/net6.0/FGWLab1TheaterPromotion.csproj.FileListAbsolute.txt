@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\bin\Debug\net6.0\FGWLab1TheaterPromotion.exe
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\bin\Debug\net6.0\FGWLab1TheaterPromotion.deps.json
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\bin\Debug\net6.0\FGWLab1TheaterPromotion.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\bin\Debug\net6.0\FGWLab1TheaterPromotion.dll
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\bin\Debug\net6.0\FGWLab1TheaterPromotion.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.dll
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\refint\FGWLab1TheaterPromotion.dll
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\FGWLab1TheaterPromotion.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1TheaterPromotion\FGWLab1TheaterPromotion\obj\Debug\net6.0\ref\FGWLab1TheaterPromotion.dll

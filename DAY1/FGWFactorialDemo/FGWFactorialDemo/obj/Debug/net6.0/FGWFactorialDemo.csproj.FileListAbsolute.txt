@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\bin\Debug\net6.0\FGWFactorialDemo.exe
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\bin\Debug\net6.0\FGWFactorialDemo.deps.json
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\bin\Debug\net6.0\FGWFactorialDemo.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\bin\Debug\net6.0\FGWFactorialDemo.dll
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\bin\Debug\net6.0\FGWFactorialDemo.pdb
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.dll
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\refint\FGWFactorialDemo.dll
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.pdb
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\FGWFactorialDemo.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY1\FGWFactorialDemo\FGWFactorialDemo\obj\Debug\net6.0\ref\FGWFactorialDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\bin\Debug\net6.0\lab2_Centuries_to_Minutes.exe
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\bin\Debug\net6.0\lab2_Centuries_to_Minutes.deps.json
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\bin\Debug\net6.0\lab2_Centuries_to_Minutes.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\bin\Debug\net6.0\lab2_Centuries_to_Minutes.dll
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\bin\Debug\net6.0\lab2_Centuries_to_Minutes.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.dll
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\refint\lab2_Centuries_to_Minutes.dll
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\lab2_Centuries_to_Minutes.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Centuries_to_Minutes\lab2_Centuries_to_Minutes\obj\Debug\net6.0\ref\lab2_Centuries_to_Minutes.dll

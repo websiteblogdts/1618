@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\bin\Debug\net6.0\lab3_TriplesOfLatinLetters.exe
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\bin\Debug\net6.0\lab3_TriplesOfLatinLetters.deps.json
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\bin\Debug\net6.0\lab3_TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\bin\Debug\net6.0\lab3_TriplesOfLatinLetters.dll
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\bin\Debug\net6.0\lab3_TriplesOfLatinLetters.pdb
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.dll
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\refint\lab3_TriplesOfLatinLetters.dll
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.pdb
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\lab3_TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY2\lab3_TriplesOfLatinLetters\lab3_TriplesOfLatinLetters\obj\Debug\net6.0\ref\lab3_TriplesOfLatinLetters.dll

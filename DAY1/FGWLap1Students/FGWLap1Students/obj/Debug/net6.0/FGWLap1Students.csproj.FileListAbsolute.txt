@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\bin\Debug\net6.0\FGWLap1Students.exe
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\bin\Debug\net6.0\FGWLap1Students.deps.json
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\bin\Debug\net6.0\FGWLap1Students.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\bin\Debug\net6.0\FGWLap1Students.dll
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\bin\Debug\net6.0\FGWLap1Students.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.dll
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\refint\FGWLap1Students.dll
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\FGWLap1Students.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap1Students\FGWLap1Students\obj\Debug\net6.0\ref\FGWLap1Students.dll

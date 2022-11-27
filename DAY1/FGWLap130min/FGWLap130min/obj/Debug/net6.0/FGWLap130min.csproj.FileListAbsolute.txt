@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\bin\Debug\net6.0\FGWLap130min.exe
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\bin\Debug\net6.0\FGWLap130min.deps.json
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\bin\Debug\net6.0\FGWLap130min.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\bin\Debug\net6.0\FGWLap130min.dll
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\bin\Debug\net6.0\FGWLap130min.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.dll
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\refint\FGWLap130min.dll
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\FGWLap130min.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY1\FGWLap130min\FGWLap130min\obj\Debug\net6.0\ref\FGWLap130min.dll

@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\bin\Debug\net6.0\lab2_SumOfRealNumbers.exe
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\bin\Debug\net6.0\lab2_SumOfRealNumbers.deps.json
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\bin\Debug\net6.0\lab2_SumOfRealNumbers.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\bin\Debug\net6.0\lab2_SumOfRealNumbers.dll
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\bin\Debug\net6.0\lab2_SumOfRealNumbers.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.dll
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\refint\lab2_SumOfRealNumbers.dll
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\lab2_SumOfRealNumbers.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SumOfRealNumbers\lab2_SumOfRealNumbers\obj\Debug\net6.0\ref\lab2_SumOfRealNumbers.dll

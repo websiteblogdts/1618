@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\bin\Debug\net6.0\lab2_Elevator.exe
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\bin\Debug\net6.0\lab2_Elevator.deps.json
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\bin\Debug\net6.0\lab2_Elevator.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\bin\Debug\net6.0\lab2_Elevator.dll
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\bin\Debug\net6.0\lab2_Elevator.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.dll
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\refint\lab2_Elevator.dll
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\lab2_Elevator.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY2\lab2_Elevator\lab2_Elevator\obj\Debug\net6.0\ref\lab2_Elevator.dll

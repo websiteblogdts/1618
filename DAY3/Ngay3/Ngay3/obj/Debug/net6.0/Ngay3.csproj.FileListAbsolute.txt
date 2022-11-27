@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\Ngay3\Ngay3\bin\Debug\net6.0\Ngay3.exe
+C:\Users\techcare\source\repos\Ngay3\Ngay3\bin\Debug\net6.0\Ngay3.deps.json
+C:\Users\techcare\source\repos\Ngay3\Ngay3\bin\Debug\net6.0\Ngay3.runtimeconfig.json
+C:\Users\techcare\source\repos\Ngay3\Ngay3\bin\Debug\net6.0\Ngay3.dll
+C:\Users\techcare\source\repos\Ngay3\Ngay3\bin\Debug\net6.0\Ngay3.pdb
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.AssemblyInfo.cs
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.dll
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\refint\Ngay3.dll
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.pdb
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\Ngay3.genruntimeconfig.cache
+C:\Users\techcare\source\repos\Ngay3\Ngay3\obj\Debug\net6.0\ref\Ngay3.dll

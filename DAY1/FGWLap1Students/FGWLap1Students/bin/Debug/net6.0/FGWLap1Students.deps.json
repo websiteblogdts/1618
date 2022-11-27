@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FGWLap1Students/1.0.0": {
+        "runtime": {
+          "FGWLap1Students.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FGWLap1Students/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

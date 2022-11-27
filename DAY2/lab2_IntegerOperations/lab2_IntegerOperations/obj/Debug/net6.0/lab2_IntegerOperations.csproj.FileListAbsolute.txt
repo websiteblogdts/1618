@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\bin\Debug\net6.0\lab2_IntegerOperations.exe
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\bin\Debug\net6.0\lab2_IntegerOperations.deps.json
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\bin\Debug\net6.0\lab2_IntegerOperations.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\bin\Debug\net6.0\lab2_IntegerOperations.dll
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\bin\Debug\net6.0\lab2_IntegerOperations.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.dll
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\refint\lab2_IntegerOperations.dll
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\lab2_IntegerOperations.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY2\lab2_IntegerOperations\lab2_IntegerOperations\obj\Debug\net6.0\ref\lab2_IntegerOperations.dll

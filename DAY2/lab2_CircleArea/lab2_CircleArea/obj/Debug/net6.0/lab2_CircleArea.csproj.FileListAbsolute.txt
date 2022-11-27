@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\bin\Debug\net6.0\lab2_CircleArea.exe
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\bin\Debug\net6.0\lab2_CircleArea.deps.json
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\bin\Debug\net6.0\lab2_CircleArea.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\bin\Debug\net6.0\lab2_CircleArea.dll
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\bin\Debug\net6.0\lab2_CircleArea.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.dll
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\refint\lab2_CircleArea.dll
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\lab2_CircleArea.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY2\lab2_CircleArea\lab2_CircleArea\obj\Debug\net6.0\ref\lab2_CircleArea.dll

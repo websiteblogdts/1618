@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\bin\Debug\net6.0\FGWLab1MultiplicationTable.exe
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\bin\Debug\net6.0\FGWLab1MultiplicationTable.deps.json
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\bin\Debug\net6.0\FGWLab1MultiplicationTable.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\bin\Debug\net6.0\FGWLab1MultiplicationTable.dll
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\bin\Debug\net6.0\FGWLab1MultiplicationTable.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.dll
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\refint\FGWLab1MultiplicationTable.dll
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.pdb
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\FGWLab1MultiplicationTable.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY1\FGWLab1MultiplicationTable\FGWLab1MultiplicationTable\obj\Debug\net6.0\ref\FGWLab1MultiplicationTable.dll

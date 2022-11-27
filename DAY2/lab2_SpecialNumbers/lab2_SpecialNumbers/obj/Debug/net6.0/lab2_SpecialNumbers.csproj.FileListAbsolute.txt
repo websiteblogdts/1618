@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\bin\Debug\net6.0\lab2_SpecialNumbers.exe
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\bin\Debug\net6.0\lab2_SpecialNumbers.deps.json
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\bin\Debug\net6.0\lab2_SpecialNumbers.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\bin\Debug\net6.0\lab2_SpecialNumbers.dll
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\bin\Debug\net6.0\lab2_SpecialNumbers.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.dll
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\refint\lab2_SpecialNumbers.dll
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.pdb
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\lab2_SpecialNumbers.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY2\lab2_SpecialNumbers\lab2_SpecialNumbers\obj\Debug\net6.0\ref\lab2_SpecialNumbers.dll
