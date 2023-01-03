@@ -1,0 +1,15 @@
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\bin\Debug\net6.0\FGWLab5BigFactorial.exe
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\bin\Debug\net6.0\FGWLab5BigFactorial.deps.json
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\bin\Debug\net6.0\FGWLab5BigFactorial.runtimeconfig.json
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\bin\Debug\net6.0\FGWLab5BigFactorial.dll
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\bin\Debug\net6.0\FGWLab5BigFactorial.pdb
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.csproj.AssemblyReference.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.AssemblyInfoInputs.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.AssemblyInfo.cs
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.csproj.CoreCompileInputs.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.dll
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\refint\FGWLab5BigFactorial.dll
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.pdb
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\FGWLab5BigFactorial.genruntimeconfig.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5BigFactorial\obj\Debug\net6.0\ref\FGWLab5BigFactorial.dll

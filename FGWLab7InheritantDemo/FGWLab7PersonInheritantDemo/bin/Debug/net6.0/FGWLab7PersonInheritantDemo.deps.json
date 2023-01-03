@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FGWLab7PersonInheritantDemo/1.0.0": {
+        "runtime": {
+          "FGWLab7PersonInheritantDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FGWLab7PersonInheritantDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

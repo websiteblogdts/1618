@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\bin\Debug\net6.0\lab5_driving.exe
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\bin\Debug\net6.0\lab5_driving.deps.json
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\bin\Debug\net6.0\lab5_driving.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\bin\Debug\net6.0\lab5_driving.dll
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\bin\Debug\net6.0\lab5_driving.pdb
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.dll
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\refint\lab5_driving.dll
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.pdb
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\lab5_driving.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY5\lab5_driving\lab5_driving\obj\Debug\net6.0\ref\lab5_driving.dll

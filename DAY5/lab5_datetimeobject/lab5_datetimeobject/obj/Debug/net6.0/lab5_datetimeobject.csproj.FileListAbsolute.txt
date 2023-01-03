@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\bin\Debug\net6.0\lab5_datetimeobject.exe
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\bin\Debug\net6.0\lab5_datetimeobject.deps.json
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\bin\Debug\net6.0\lab5_datetimeobject.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\bin\Debug\net6.0\lab5_datetimeobject.dll
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\bin\Debug\net6.0\lab5_datetimeobject.pdb
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.dll
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\refint\lab5_datetimeobject.dll
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.pdb
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\lab5_datetimeobject.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY5\lab5_datetimeobject\lab5_datetimeobject\obj\Debug\net6.0\ref\lab5_datetimeobject.dll

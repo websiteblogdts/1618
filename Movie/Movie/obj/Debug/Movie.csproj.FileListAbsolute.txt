@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Movie\Movie\bin\Debug\Movie.exe.config
+C:\Users\Asus\source\repos\Movie\Movie\bin\Debug\Movie.exe
+C:\Users\Asus\source\repos\Movie\Movie\bin\Debug\Movie.pdb
+C:\Users\Asus\source\repos\Movie\Movie\obj\Debug\Movie.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Movie\Movie\obj\Debug\Movie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Movie\Movie\obj\Debug\Movie.exe
+C:\Users\Asus\source\repos\Movie\Movie\obj\Debug\Movie.pdb
+C:\Users\techcare\source\repos\Movie\Movie\bin\Debug\Movie.exe.config
+C:\Users\techcare\source\repos\Movie\Movie\bin\Debug\Movie.exe
+C:\Users\techcare\source\repos\Movie\Movie\bin\Debug\Movie.pdb
+C:\Users\techcare\source\repos\Movie\Movie\obj\Debug\Movie.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\Movie\Movie\obj\Debug\Movie.csproj.SuggestedBindingRedirects.cache
+C:\Users\techcare\source\repos\Movie\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\Movie\Movie\obj\Debug\Movie.exe
+C:\Users\techcare\source\repos\Movie\Movie\obj\Debug\Movie.pdb

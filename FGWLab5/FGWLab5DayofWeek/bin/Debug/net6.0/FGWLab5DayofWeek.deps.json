@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FGWLab5DayofWeek/1.0.0": {
+        "runtime": {
+          "FGWLab5DayofWeek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FGWLab5DayofWeek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

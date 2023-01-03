@@ -1,0 +1,15 @@
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\bin\Debug\net6.0\lab5_song.exe
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\bin\Debug\net6.0\lab5_song.deps.json
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\bin\Debug\net6.0\lab5_song.runtimeconfig.json
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\bin\Debug\net6.0\lab5_song.dll
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\bin\Debug\net6.0\lab5_song.pdb
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.csproj.AssemblyReference.cache
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.AssemblyInfoInputs.cache
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.AssemblyInfo.cs
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.csproj.CoreCompileInputs.cache
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.dll
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\refint\lab5_song.dll
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.pdb
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\lab5_song.genruntimeconfig.cache
+C:\Users\techcare\source\repos\DAY5\lab5_song\lab5_song\obj\Debug\net6.0\ref\lab5_song.dll

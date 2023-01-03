@@ -1,0 +1,15 @@
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\bin\Debug\net6.0\FGWLab5DayofWeek.exe
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\bin\Debug\net6.0\FGWLab5DayofWeek.deps.json
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\bin\Debug\net6.0\FGWLab5DayofWeek.runtimeconfig.json
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\bin\Debug\net6.0\FGWLab5DayofWeek.dll
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\bin\Debug\net6.0\FGWLab5DayofWeek.pdb
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.csproj.AssemblyReference.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.AssemblyInfoInputs.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.AssemblyInfo.cs
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.csproj.CoreCompileInputs.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.dll
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\refint\FGWLab5DayofWeek.dll
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.pdb
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\FGWLab5DayofWeek.genruntimeconfig.cache
+D:\Code Visual Studio\FGWLab5DayofWeek\FGWLab5DayofWeek\obj\Debug\net6.0\ref\FGWLab5DayofWeek.dll

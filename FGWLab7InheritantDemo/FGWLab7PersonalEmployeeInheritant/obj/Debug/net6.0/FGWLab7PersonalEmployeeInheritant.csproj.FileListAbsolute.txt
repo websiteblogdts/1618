@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\bin\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.exe
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\bin\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.deps.json
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\bin\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\bin\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.dll
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\bin\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.pdb
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.dll
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\refint\FGWLab7PersonalEmployeeInheritant.dll
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.pdb
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\FGWLab7PersonalEmployeeInheritant.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7PersonalEmployeeInheritant\obj\Debug\net6.0\ref\FGWLab7PersonalEmployeeInheritant.dll

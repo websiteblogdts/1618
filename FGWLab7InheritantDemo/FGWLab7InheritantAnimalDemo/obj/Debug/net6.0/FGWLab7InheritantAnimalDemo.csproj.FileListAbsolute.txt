@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\bin\Debug\net6.0\FGWLab7InheritantAnimalDemo.exe
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\bin\Debug\net6.0\FGWLab7InheritantAnimalDemo.deps.json
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\bin\Debug\net6.0\FGWLab7InheritantAnimalDemo.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\bin\Debug\net6.0\FGWLab7InheritantAnimalDemo.dll
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\bin\Debug\net6.0\FGWLab7InheritantAnimalDemo.pdb
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.dll
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\refint\FGWLab7InheritantAnimalDemo.dll
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.pdb
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\FGWLab7InheritantAnimalDemo.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\FGWLab7InheritantDemo\FGWLab7InheritantAnimalDemo\obj\Debug\net6.0\ref\FGWLab7InheritantAnimalDemo.dll
